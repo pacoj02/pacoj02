@@ -1,6 +1,6 @@
 ## Hi, I'm Francisco Juarez
 
-I'm moving into cybersecurity. Before this I served in the U.S. Army (91J, Iraq 2009 to 2010, former Secret clearance), and I've worked as a Class A CDL HazMat and tanker driver and a trucking dispatcher.
+I'm moving into cybersecurity. Before this I served in the U.S. Army (91J, Iraq 2009 to 2012, former Secret clearance), and I've worked as a Class A CDL HazMat and tanker driver and a trucking dispatcher.
 
 - Cybersecurity student at Coding Temple, capstone completed November 2026 (95/100)
 - Studying for CompTIA Security+ (SY0-701)
